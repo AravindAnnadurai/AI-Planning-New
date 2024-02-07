@@ -5,7 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/AI Planning New/AIPlanning/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+				"D:/AI Planning New/AIPlanning/Content/StarterContent/Materials/M_AssetPlatform.uasset",
+				"D:/AI Planning New/AIPlanning/Content/AI_Planning/Level/Tester.umap",
+				"D:/AI Planning New/AIPlanning/Content/ThirdPerson/Maps/ThirdPersonMap_BuiltData.uasset"
 			]
 		}
 	]

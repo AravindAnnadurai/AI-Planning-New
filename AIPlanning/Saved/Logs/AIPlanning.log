@@ -1407,3 +1407,999 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.02.07-21.47.41:403][  0]LogSlate: Took 0.007781 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2024.02.07-21.47.41:436][  0]LogViewport: Scene viewport resized to 1454x902, mode Windowed.
 [2024.02.07-21.49.24:650][142]LogDerivedDataCache: C:/Users/Aravind Annadurai/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.058 and deleted 0 files with total size 0 MiB and 10 empty folders. Scanned 482 files in 879 folders with total size 4 MiB.
+[2024.02.07-21.55.11:688][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.02.07-21.55.12:076][284]LogTexture: Display: Building textures: /Game/StarterContent/Maps/StarterMap_BuiltData.StarterMap_BuiltData:NewReflectionComponentTexture310E58554010446A08107499F126CE3D (BGRA8, 128x128 x6x1x1) (Required Memory Estimate: 3.062492 MB), EncodeSpeed: Fast
+[2024.02.07-21.55.12:076][284]LogTexture: Display: Building textures: /Game/StarterContent/Maps/StarterMap_BuiltData.StarterMap_BuiltData:NewReflectionComponentTexture34034B4C417D9B375A592E9A23C11137 (BGRA8, 128x128 x6x1x1) (Required Memory Estimate: 3.062492 MB), EncodeSpeed: Fast
+[2024.02.07-21.55.12:076][284]LogTexture: Display: Building textures: /Game/StarterContent/Maps/StarterMap_BuiltData.StarterMap_BuiltData:NewReflectionComponentTexture23F9881A4F7D09FA85B8FFBAC56882BF (BGRA8, 128x128 x6x1x1) (Required Memory Estimate: 3.062492 MB), EncodeSpeed: Fast
+[2024.02.07-21.55.12:076][284]LogTexture: Display: Building textures: /Game/StarterContent/Maps/StarterMap_BuiltData.StarterMap_BuiltData:NewReflectionComponentTexture286B71FD456BBC57D3B875B63A2AF0AA (BGRA8, 128x128 x6x1x1) (Required Memory Estimate: 3.062492 MB), EncodeSpeed: Fast
+[2024.02.07-21.55.12:076][284]LogTexture: Display: Building textures: /Game/StarterContent/Maps/StarterMap_BuiltData.StarterMap_BuiltData:NewReflectionComponentTexture2A05A5254D431981518674B220E5E1A1 (BGRA8, 128x128 x6x1x1) (Required Memory Estimate: 3.062492 MB), EncodeSpeed: Fast
+[2024.02.07-21.55.12:084][284]LogTexture: Display: Building textures: /Game/StarterContent/Maps/StarterMap_BuiltData.StarterMap_BuiltData:NewReflectionComponentTexture43ADA98049DD7D3E0EABF7B175F6CC97 (BGRA8, 128x128 x6x1x1) (Required Memory Estimate: 3.062492 MB), EncodeSpeed: Fast
+[2024.02.07-21.55.12:084][284]LogTexture: Display: Building textures: /Game/StarterContent/Maps/StarterMap_BuiltData.StarterMap_BuiltData:NewReflectionComponentTexture3AD1786A42EB6F981CB7E1847869C35B (BGRA8, 128x128 x6x1x1) (Required Memory Estimate: 3.062492 MB), EncodeSpeed: Fast
+[2024.02.07-21.55.12:084][284]LogTexture: Display: Building textures: /Game/StarterContent/Maps/StarterMap_BuiltData.StarterMap_BuiltData:NewReflectionComponentTexture617F078740EB0F77ABFB678038ACFCA7 (BGRA8, 128x128 x6x1x1) (Required Memory Estimate: 3.062492 MB), EncodeSpeed: Fast
+[2024.02.07-21.55.12:104][284]LogTexture: Display: Building textures: /Game/StarterContent/Maps/StarterMap_BuiltData.StarterMap_BuiltData:NewReflectionComponentTextureB91D75A74080657D8AF886A1EE756E94 (BGRA8, 128x128 x6x1x1) (Required Memory Estimate: 3.062492 MB), EncodeSpeed: Fast
+[2024.02.07-21.55.12:104][284]LogTexture: Display: Building textures: /Game/StarterContent/Maps/StarterMap_BuiltData.StarterMap_BuiltData:NewReflectionComponentTextureF6495ADB4998903A4DCD9AAEAD18E643 (BGRA8, 128x128 x6x1x1) (Required Memory Estimate: 3.062492 MB), EncodeSpeed: Fast
+[2024.02.07-21.55.12:217][284]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave Fire01...
+[2024.02.07-21.55.12:218][284]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave Smoke01...
+[2024.02.07-21.55.12:218][284]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave Fire_Sparks01...
+[2024.02.07-21.55.12:218][284]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave Steam01...
+[2024.02.07-21.55.12:218][284]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave Collapse01...
+[2024.02.07-21.55.12:218][284]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave Starter_Wind05...
+[2024.02.07-21.55.12:218][284]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave Collapse02...
+[2024.02.07-21.55.12:218][284]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave Starter_Birds01...
+[2024.02.07-21.55.12:232][284]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave Starter_Wind06...
+[2024.02.07-21.55.12:234][284]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave Starter_Music01...
+[2024.02.07-21.55.12:239][284]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.07-21.55.12:278][284]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StarterContent/Maps/StarterMap.StarterMap
+[2024.02.07-21.55.12:279][284]Cmd: MAP LOAD FILE="D:/AI Planning New/AIPlanning/Content/StarterContent/Maps/StarterMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.02.07-21.55.12:280][284]LightingResults: New page: Lighting Build
+[2024.02.07-21.55.12:280][284]LoadErrors: New page: Loading map: StarterMap.umap
+[2024.02.07-21.55.12:328][284]LogAudio: Display: Chunk size for SoundWave /Game/StarterContent/Audio/Smoke01.Smoke01: 262144
+[2024.02.07-21.55.12:330][284]LogAudio: Display: Chunk size for SoundWave /Game/StarterContent/Audio/Steam01.Steam01: 262144
+[2024.02.07-21.55.12:331][284]LogAudio: Display: Chunk size for SoundWave /Game/StarterContent/Audio/Collapse01.Collapse01: 262144
+[2024.02.07-21.55.12:331][284]LogAudio: Display: Chunk size for SoundWave /Game/StarterContent/Audio/Collapse02.Collapse02: 262144
+[2024.02.07-21.55.12:332][284]LogAudio: Display: Chunk size for SoundWave /Game/StarterContent/Audio/Starter_Wind05.Starter_Wind05: 262144
+[2024.02.07-21.55.12:338][284]LogAudio: Display: Chunk size for SoundWave /Game/StarterContent/Audio/Fire_Sparks01.Fire_Sparks01: 262144
+[2024.02.07-21.55.12:338][284]LogAudio: Display: Chunk size for SoundWave /Game/StarterContent/Audio/Starter_Birds01.Starter_Birds01: 262144
+[2024.02.07-21.55.12:342][284]LogAudio: Display: Chunk size for SoundWave /Game/StarterContent/Audio/Starter_Wind06.Starter_Wind06: 262144
+[2024.02.07-21.55.12:354][284]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2024.02.07-21.55.12:356][284]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.07-21.55.12:362][284]LogContentBundle: [Untitled_1(Standalone)] Deleting container.
+[2024.02.07-21.55.12:362][284]MapCheck: New page: Map Check
+[2024.02.07-21.55.12:362][284]LightingResults: New page: Lighting Build
+[2024.02.07-21.55.12:369][284]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.07-21.55.12:404][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.02.07-21.55.12:411][284]LogMaterial: Display: Material /Game/StarterContent/Props/Materials/M_TableRound.M_TableRound needed to have new flag set bUsedWithNanite !
+[2024.02.07-21.55.12:473][284]MapCheck: Warning: M_TableRound Material /Game/StarterContent/Props/Materials/M_TableRound.M_TableRound was missing the usage flag bUsedWithNanite. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2024.02.07-21.55.12:514][284]LogMaterial: Display: Material /Game/StarterContent/Props/Materials/M_Chair.M_Chair needed to have new flag set bUsedWithNanite !
+[2024.02.07-21.55.12:564][284]MapCheck: Warning: M_Chair Material /Game/StarterContent/Props/Materials/M_Chair.M_Chair was missing the usage flag bUsedWithNanite. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2024.02.07-21.55.12:567][284]LogWorld: UWorld::CleanupWorld for StarterMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.07-21.55.12:568][284]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.07-21.55.12:591][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.02.07-21.55.12:593][284]LogAudio: Display: Chunk size for SoundWave /Game/StarterContent/Audio/Fire01.Fire01: 262144
+[2024.02.07-21.55.12:599][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.02.07-21.55.12:599][284]LogAudio: Display: Chunk size for SoundWave /Game/StarterContent/Audio/Starter_Music01.Starter_Music01: 262144
+[2024.02.07-21.55.12:652][284]LogAudio: Display: Audio Device (ID: 1) registered with world 'StarterMap'.
+[2024.02.07-21.55.12:652][284]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.07-21.55.12:652][284]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.07-21.55.12:653][284]LogAIModule: Creating AISystem for world StarterMap
+[2024.02.07-21.55.12:940][284]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.02.07-21.55.12:952][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.02.07-21.55.12:957][284]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.02.07-21.55.12:957][284]MapCheck: Map check complete: 0 Error(s), 2 Warning(s), took 0.145ms to complete.
+[2024.02.07-21.55.12:970][284]LogFileHelpers: Loading map 'StarterMap' took 0.690
+[2024.02.07-21.55.15:503][318]LogSlate: Window 'Message Log' being destroyed
+[2024.02.07-21.55.15:509][318]LogSlate: Window 'Message Log' being destroyed
+[2024.02.07-21.55.16:517][369]LogShaderCompilers: Display: ================================================
+[2024.02.07-21.55.16:517][369]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.02.07-21.55.16:517][369]LogShaderCompilers: Display: Total job queries 107, among them cache hits 0 (0.00%)
+[2024.02.07-21.55.16:517][369]LogShaderCompilers: Display: Tracking 30 distinct input hashes that result in 26 distinct outputs (86.67%)
+[2024.02.07-21.55.16:517][369]LogShaderCompilers: Display: RAM used: 736.82 KiB of 1.60 GiB budget. Usage: 0.04%
+[2024.02.07-21.55.16:517][369]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.02.07-21.55.16:517][369]LogShaderCompilers: Display: Shaders Compiled: 30
+[2024.02.07-21.55.16:517][369]LogShaderCompilers: Display: Jobs assigned 73, completed 30 (41.10%)
+[2024.02.07-21.55.16:517][369]LogShaderCompilers: Display: Average time worker was idle: 145.39 s
+[2024.02.07-21.55.16:517][369]LogShaderCompilers: Display: Time job spent in pending queue: average 0.50 s, longest 3.95 s
+[2024.02.07-21.55.16:517][369]LogShaderCompilers: Display: Job execution time: average 1.42 s, max 4.00 s
+[2024.02.07-21.55.16:517][369]LogShaderCompilers: Display: Job life time (pending + execution): average 2.44 s, max 4.04
+[2024.02.07-21.55.16:517][369]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 6.74 s
+[2024.02.07-21.55.16:517][369]LogShaderCompilers: Display: Jobs were issued in 34 batches (only local compilation was used), average 2.15 jobs/batch
+[2024.02.07-21.55.16:517][369]LogShaderCompilers: Display: Average processing rate: 4.45 jobs/sec
+[2024.02.07-21.55.16:517][369]LogShaderCompilers: Display: Total thread time: 15.767 s
+[2024.02.07-21.55.16:517][369]LogShaderCompilers: Display: Total thread preprocess time: 0.72 s
+[2024.02.07-21.55.16:517][369]LogShaderCompilers: Display: Percentage time preprocessing: 4.56%
+[2024.02.07-21.55.16:517][369]LogShaderCompilers: Display: Effective parallelization: 2.34 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.02.07-21.55.16:517][369]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.02.07-21.55.16:517][369]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 0.76 sec, max 0.92 sec, min 0.59 sec)
+[2024.02.07-21.55.16:517][369]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled    2 times, average 0.67 sec, max 0.81 sec, min 0.53 sec)
+[2024.02.07-21.55.16:517][369]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 0.63 sec, max 0.73 sec, min 0.52 sec)
+[2024.02.07-21.55.16:517][369]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    1 times, average 0.62 sec, max 0.62 sec, min 0.62 sec)
+[2024.02.07-21.55.16:517][369]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    1 times, average 0.61 sec, max 0.61 sec, min 0.61 sec)
+[2024.02.07-21.55.16:517][369]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.02.07-21.55.16:517][369]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 9.58% of total time (compiled    2 times, average 0.76 sec, max 0.92 sec, min 0.59 sec)
+[2024.02.07-21.55.16:517][369]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ - 8.50% of total time (compiled    2 times, average 0.67 sec, max 0.81 sec, min 0.53 sec)
+[2024.02.07-21.55.16:517][369]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 7.97% of total time (compiled    2 times, average 0.63 sec, max 0.73 sec, min 0.52 sec)
+[2024.02.07-21.55.16:517][369]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 7.28% of total time (compiled    2 times, average 0.57 sec, max 0.63 sec, min 0.51 sec)
+[2024.02.07-21.55.16:517][369]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy - 7.23% of total time (compiled    2 times, average 0.57 sec, max 0.63 sec, min 0.51 sec)
+[2024.02.07-21.55.16:517][369]LogShaderCompilers: Display: ================================================
+[2024.02.07-21.55.36:626][595]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.07-21.55.36:638][595]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.07-21.55.36:640][595]PIE: New page: PIE session: StarterMap (07-Feb-2024, 9:55:36 pm)
+[2024.02.07-21.55.36:644][595]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.02.07-21.55.36:646][595]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2024.02.07-21.55.36:648][595]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_StarterMap
+[2024.02.07-21.55.36:666][595]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018473s)
+[2024.02.07-21.55.36:666][595]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/StarterMap.StarterMap to /Game/StarterContent/Maps/UEDPIE_0_StarterMap.StarterMap (0.018508s)
+[2024.02.07-21.55.36:666][595]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.07-21.55.36:668][595]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.07-21.55.36:668][595]LogAIModule: Creating AISystem for world StarterMap
+[2024.02.07-21.55.36:669][595]LogPlayLevel: PIE: World Init took: (0.002674s)
+[2024.02.07-21.55.36:676][595]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.02.07-21.55.36:681][595]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.02.07-21.55.36:681][595]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.07-21.55.36:681][595]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.07-21.55.36:681][595]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.07-21.55.36:681][595]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.07-21.55.36:681][595]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.07-21.55.36:681][595]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.07-21.55.36:681][595]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.07-21.55.36:681][595]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.07-21.55.36:681][595]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.07-21.55.36:681][595]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.07-21.55.36:681][595]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.07-21.55.36:683][595]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.07-21.55.36:701][595]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2024.02.07-21.55.36:701][595]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.07-21.55.36:701][595]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.07-21.55.36:701][595]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.07-21.55.36:702][595]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.02.07-21.55.36:702][595]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.02.07-21.55.36:703][595]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.02.07-21.55.36:703][595]LogInit: FAudioDevice initialized with ID 2.
+[2024.02.07-21.55.36:703][595]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.02.07-21.55.36:703][595]LogAudio: Display: Audio Device (ID: 2) registered with world 'StarterMap'.
+[2024.02.07-21.55.36:703][595]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.02.07-21.55.36:715][595]LogLoad: Game class is 'GameModeBase'
+[2024.02.07-21.55.36:724][595]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_StarterMap.StarterMap up for play (max tick rate 0) at 2024.02.07-21.55.36
+[2024.02.07-21.55.36:728][595]LogWorld: Bringing up level for play took: 0.012335
+[2024.02.07-21.55.36:730][595]LogOnline: OSS: Created online subsystem instance for: :Context_2
+[2024.02.07-21.55.36:783][595]PIE: Server logged in
+[2024.02.07-21.55.36:786][595]PIE: Play in editor total start time 0.155 seconds.
+[2024.02.07-21.55.36:923][596]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/StarterContent/Audio/Collapse_Cue.Collapse_Cue was zero and has changed. Consider manually Re-saving the asset
+[2024.02.07-21.55.49:081][560]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.07-21.55.49:081][560]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_StarterMap
+[2024.02.07-21.55.49:083][560]LogWorld: UWorld::CleanupWorld for StarterMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.07-21.55.49:085][560]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.07-21.55.49:090][560]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.07-21.55.49:093][560]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.07-21.55.49:099][560]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.07-21.55.49:100][560]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.02.07-21.55.49:100][560]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.02.07-21.55.49:101][560]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.02.07-21.55.49:105][560]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.07-21.55.49:108][560]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.02.07-21.55.49:139][561]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2024.02.07-21.56.28:944][831]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.07-21.56.39:063][623]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.07-21.56.39:063][623]PIE: New page: SIE session: StarterMap (07-Feb-2024, 9:56:39 pm)
+[2024.02.07-21.56.39:063][623]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_StarterMap
+[2024.02.07-21.56.39:078][623]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015060s)
+[2024.02.07-21.56.39:078][623]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/StarterMap.StarterMap to /Game/StarterContent/Maps/UEDPIE_0_StarterMap.StarterMap (0.015089s)
+[2024.02.07-21.56.39:078][623]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.07-21.56.39:078][623]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.07-21.56.39:078][623]LogAIModule: Creating AISystem for world StarterMap
+[2024.02.07-21.56.39:079][623]LogPlayLevel: PIE: World Init took: (0.000682s)
+[2024.02.07-21.56.39:085][623]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.02.07-21.56.39:086][623]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.02.07-21.56.39:086][623]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.07-21.56.39:086][623]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.07-21.56.39:086][623]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.07-21.56.39:086][623]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.07-21.56.39:086][623]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.07-21.56.39:086][623]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.07-21.56.39:086][623]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.07-21.56.39:086][623]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.07-21.56.39:086][623]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.07-21.56.39:086][623]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.07-21.56.39:086][623]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.07-21.56.39:088][623]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.07-21.56.39:104][623]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2024.02.07-21.56.39:105][623]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.07-21.56.39:105][623]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.07-21.56.39:105][623]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.07-21.56.39:106][623]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.02.07-21.56.39:106][623]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.02.07-21.56.39:107][623]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.02.07-21.56.39:107][623]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.02.07-21.56.39:107][623]LogInit: FAudioDevice initialized with ID 3.
+[2024.02.07-21.56.39:107][623]LogAudio: Display: Audio Device (ID: 3) registered with world 'StarterMap'.
+[2024.02.07-21.56.39:107][623]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.02.07-21.56.39:111][623]LogLoad: Game class is 'GameModeBase'
+[2024.02.07-21.56.39:118][623]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_StarterMap.StarterMap up for play (max tick rate 0) at 2024.02.07-21.56.39
+[2024.02.07-21.56.39:119][623]LogWorld: Bringing up level for play took: 0.008618
+[2024.02.07-21.56.39:121][623]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2024.02.07-21.56.39:122][623]PIE: Server logged in
+[2024.02.07-21.56.39:124][623]PIE: Play in editor total start time 0.061 seconds.
+[2024.02.07-21.56.43:377][918]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.07-21.56.43:378][918]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_StarterMap
+[2024.02.07-21.56.43:378][918]LogWorld: UWorld::CleanupWorld for StarterMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.07-21.56.43:379][918]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.07-21.56.43:382][918]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.07-21.56.43:384][918]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.07-21.56.43:392][918]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.07-21.56.43:392][918]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.02.07-21.56.43:392][918]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.02.07-21.56.43:394][918]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.02.07-21.56.43:404][918]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.07-21.56.43:407][918]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.02.07-21.56.43:454][920]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2024.02.07-21.56.49:936][522]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.07-21.56.49:936][522]PIE: New page: PIE session: StarterMap (07-Feb-2024, 9:56:49 pm)
+[2024.02.07-21.56.49:936][522]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_StarterMap
+[2024.02.07-21.56.49:953][522]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016552s)
+[2024.02.07-21.56.49:953][522]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/StarterMap.StarterMap to /Game/StarterContent/Maps/UEDPIE_0_StarterMap.StarterMap (0.016585s)
+[2024.02.07-21.56.49:953][522]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.07-21.56.49:953][522]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.07-21.56.49:953][522]LogAIModule: Creating AISystem for world StarterMap
+[2024.02.07-21.56.49:953][522]LogPlayLevel: PIE: World Init took: (0.000748s)
+[2024.02.07-21.56.49:960][522]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.02.07-21.56.49:961][522]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.02.07-21.56.49:961][522]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.07-21.56.49:961][522]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.07-21.56.49:961][522]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.07-21.56.49:961][522]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.07-21.56.49:961][522]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.07-21.56.49:961][522]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.07-21.56.49:961][522]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.07-21.56.49:961][522]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.07-21.56.49:961][522]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.07-21.56.49:961][522]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.07-21.56.49:961][522]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.07-21.56.49:963][522]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.07-21.56.49:980][522]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2024.02.07-21.56.49:980][522]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.07-21.56.49:980][522]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.07-21.56.49:980][522]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.07-21.56.49:981][522]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.02.07-21.56.49:981][522]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.02.07-21.56.49:982][522]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.02.07-21.56.49:982][522]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.02.07-21.56.49:982][522]LogInit: FAudioDevice initialized with ID 4.
+[2024.02.07-21.56.49:982][522]LogAudio: Display: Audio Device (ID: 4) registered with world 'StarterMap'.
+[2024.02.07-21.56.49:982][522]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.02.07-21.56.49:985][522]LogLoad: Game class is 'GameModeBase'
+[2024.02.07-21.56.49:993][522]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_StarterMap.StarterMap up for play (max tick rate 0) at 2024.02.07-21.56.49
+[2024.02.07-21.56.49:995][522]LogWorld: Bringing up level for play took: 0.009145
+[2024.02.07-21.56.49:996][522]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2024.02.07-21.56.49:998][522]PIE: Server logged in
+[2024.02.07-21.56.50:000][522]PIE: Play in editor total start time 0.064 seconds.
+[2024.02.07-21.56.51:176][596]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.07-21.56.51:176][596]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_StarterMap
+[2024.02.07-21.56.51:177][596]LogWorld: UWorld::CleanupWorld for StarterMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.07-21.56.51:177][596]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.07-21.56.51:180][596]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.07-21.56.51:182][596]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.07-21.56.51:187][596]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.07-21.56.51:187][596]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.02.07-21.56.51:188][596]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.02.07-21.56.51:189][596]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.02.07-21.56.51:192][596]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.07-21.56.51:197][596]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.02.07-21.56.51:246][598]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2024.02.07-21.57.01:227][411]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.02.07-21.57.01:307][411]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behavior for '/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.HDRI_Epic_Courtyard_Daylight', its maximum texture size has been explicitly set to 512.
+[2024.02.07-21.57.01:340][411]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.07-21.57.01:342][411]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting
+[2024.02.07-21.57.01:342][411]Cmd: MAP LOAD FILE="D:/AI Planning New/AIPlanning/Content/StarterContent/Maps/Advanced_Lighting.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.02.07-21.57.01:342][411]LightingResults: New page: Lighting Build
+[2024.02.07-21.57.01:342][411]LoadErrors: New page: Loading map: Advanced_Lighting.umap
+[2024.02.07-21.57.01:349][411]LogWorld: UWorld::CleanupWorld for StarterMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.07-21.57.01:349][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.07-21.57.01:349][411]MapCheck: New page: Map Check
+[2024.02.07-21.57.01:349][411]LightingResults: New page: Lighting Build
+[2024.02.07-21.57.01:358][411]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.07-21.57.01:364][411]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.02.07-21.57.01:366][411]LogWorld: UWorld::CleanupWorld for Advanced_Lighting, bSessionEnded=true, bCleanupResources=true
+[2024.02.07-21.57.01:366][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.07-21.57.01:372][411]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.02.07-21.57.01:378][411]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.02.07-21.57.01:384][411]LogAudio: Display: Audio Device (ID: 1) registered with world 'Advanced_Lighting'.
+[2024.02.07-21.57.01:384][411]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.07-21.57.01:384][411]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.07-21.57.01:384][411]LogAIModule: Creating AISystem for world Advanced_Lighting
+[2024.02.07-21.57.01:441][411]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.02.07-21.57.01:448][411]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.02.07-21.57.01:449][411]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.02.07-21.57.01:449][411]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.066ms to complete.
+[2024.02.07-21.57.01:449][411]LogFileHelpers: Loading map 'Advanced_Lighting' took 0.108
+[2024.02.07-21.57.03:772][607]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.02.07-21.57.03:815][607]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.07-21.57.03:816][607]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2024.02.07-21.57.03:816][607]Cmd: MAP LOAD FILE="D:/AI Planning New/AIPlanning/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.02.07-21.57.03:816][607]LightingResults: New page: Lighting Build
+[2024.02.07-21.57.03:816][607]LoadErrors: New page: Loading map: Minimal_Default.umap
+[2024.02.07-21.57.03:857][607]LogWorld: UWorld::CleanupWorld for Advanced_Lighting, bSessionEnded=true, bCleanupResources=true
+[2024.02.07-21.57.03:857][607]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.07-21.57.03:857][607]MapCheck: New page: Map Check
+[2024.02.07-21.57.03:857][607]LightingResults: New page: Lighting Build
+[2024.02.07-21.57.03:863][607]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.07-21.57.03:866][607]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.02.07-21.57.03:867][607]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2024.02.07-21.57.03:867][607]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.07-21.57.03:874][607]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.02.07-21.57.03:880][607]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.02.07-21.57.03:886][607]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2024.02.07-21.57.03:886][607]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.07-21.57.03:886][607]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.07-21.57.03:886][607]LogAIModule: Creating AISystem for world Minimal_Default
+[2024.02.07-21.57.03:934][607]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.02.07-21.57.03:940][607]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.02.07-21.57.03:942][607]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.02.07-21.57.03:942][607]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.07ms to complete.
+[2024.02.07-21.57.03:942][607]LogFileHelpers: Loading map 'Minimal_Default' took 0.125
+[2024.02.07-21.57.21:958][270]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.02.07-21.57.22:025][270]LogContentBrowser: Creating deferred item: NewFolder
+[2024.02.07-21.57.22:034][271]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.02.07-21.57.28:868][940]LogContentBrowser: Attempting asset rename: NewFolder -> AI_Planning
+[2024.02.07-21.57.28:869][940]LogContentBrowser: End creating deferred item NewFolder
+[2024.02.07-21.57.38:235][837]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.02.07-21.57.38:245][837]LogContentBrowser: Creating deferred item: NewFolder
+[2024.02.07-21.57.38:297][839]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.02.07-21.57.46:362][618]LogContentBrowser: Attempting asset rename: NewFolder -> Level
+[2024.02.07-21.57.46:363][618]LogContentBrowser: End creating deferred item NewFolder
+[2024.02.07-21.57.49:497][935]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.02.07-21.57.49:506][935]LogContentBrowser: Creating deferred item: NewFolder
+[2024.02.07-21.57.49:515][936]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.02.07-21.58.05:162][678]LogContentBrowser: Attempting asset rename: NewFolder -> Enemy
+[2024.02.07-21.58.05:163][678]LogContentBrowser: End creating deferred item NewFolder
+[2024.02.07-21.58.07:280][894]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.02.07-21.58.07:294][894]LogContentBrowser: Creating deferred item: NewFolder
+[2024.02.07-21.58.07:303][895]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.02.07-21.58.09:893][141]LogContentBrowser: Attempting asset rename: NewFolder -> Tower
+[2024.02.07-21.58.09:894][141]LogContentBrowser: End creating deferred item NewFolder
+[2024.02.07-21.58.20:244][125]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.02.07-21.58.20:258][125]LogContentBrowser: Creating deferred item: NewFolder
+[2024.02.07-21.58.20:267][126]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.02.07-21.58.23:599][438]LogContentBrowser: Attempting asset rename: NewFolder -> Castle
+[2024.02.07-21.58.23:599][438]LogContentBrowser: End creating deferred item NewFolder
+[2024.02.07-21.58.29:825][  2]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2024.02.07-21.58.29:833][  2]LogContentBrowser: Creating deferred item: NewWorld
+[2024.02.07-21.58.29:886][  4]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2024.02.07-21.58.34:658][487]LogContentBrowser: Attempting asset rename: NewWorld -> Tester
+[2024.02.07-21.58.34:660][487]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.07-21.58.34:660][487]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.07-21.58.34:676][487]LogContentBrowser: End creating deferred item NewWorld
+[2024.02.07-21.58.35:130][528]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.02.07-21.58.35:140][528]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.02.07-21.58.37:452][528]LogSlate: Window 'Save Content' being destroyed
+[2024.02.07-21.58.38:643][528]LogSlate: Window 'Message' being destroyed
+[2024.02.07-21.58.38:665][528]Message dialog closed, result: Ok, title: Message, text: The level you are trying to open needs to be saved first.
+[2024.02.07-21.58.40:205][674]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.02.07-21.58.40:211][674]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2024.02.07-21.58.40:859][674]LogSlate: Window 'Save Content' being destroyed
+[2024.02.07-21.58.40:865][674]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.07-21.58.40:885][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI_Planning/Level/Tester" FILE="D:/AI Planning New/AIPlanning/Content/AI_Planning/Level/Tester.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.07-21.58.40:890][674]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.02.07-21.58.40:892][674]LogSavePackage: Moving output files for package: /Game/AI_Planning/Level/Tester
+[2024.02.07-21.58.40:892][674]LogSavePackage: Moving 'D:/AI Planning New/AIPlanning/Saved/Tester5F1410BC4B015BE1EC1868A44F79B0E3.tmp' to 'D:/AI Planning New/AIPlanning/Content/AI_Planning/Level/Tester.umap'
+[2024.02.07-21.58.40:898][674]LogFileHelpers: Saving map 'Tester' took 0.014
+[2024.02.07-21.58.40:904][674]LogFileHelpers: InternalPromptForCheckoutAndSave took 38 ms (total: 3.39 sec)
+[2024.02.07-21.58.40:904][674]LogAssetEditorSubsystem: Opening Asset editor for World /Game/AI_Planning/Level/Tester.Tester
+[2024.02.07-21.58.40:904][674]Cmd: MAP LOAD FILE="D:/AI Planning New/AIPlanning/Content/AI_Planning/Level/Tester.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.02.07-21.58.40:904][674]LightingResults: New page: Lighting Build
+[2024.02.07-21.58.40:904][674]LoadErrors: New page: Loading map: Tester.umap
+[2024.02.07-21.58.40:906][674]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2024.02.07-21.58.40:906][674]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.07-21.58.40:906][674]MapCheck: New page: Map Check
+[2024.02.07-21.58.40:906][674]LightingResults: New page: Lighting Build
+[2024.02.07-21.58.40:912][674]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.07-21.58.40:913][674]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.02.07-21.58.40:914][674]LogWorld: UWorld::CleanupWorld for Tester, bSessionEnded=true, bCleanupResources=true
+[2024.02.07-21.58.40:914][674]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.07-21.58.40:920][674]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.02.07-21.58.40:925][674]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.02.07-21.58.40:927][674]LogAudio: Display: Audio Device (ID: 1) registered with world 'Tester'.
+[2024.02.07-21.58.40:927][674]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.07-21.58.40:927][674]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.07-21.58.40:928][674]LogAIModule: Creating AISystem for world Tester
+[2024.02.07-21.58.40:942][674]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.02.07-21.58.40:948][674]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.02.07-21.58.40:995][674]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.02.07-21.58.40:995][674]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.083ms to complete.
+[2024.02.07-21.58.40:995][674]LogFileHelpers: Loading map 'Tester' took 0.090
+[2024.02.07-21.58.41:005][674]AssetCheck: New page: Asset Save: Tester
+[2024.02.07-21.58.41:005][674]LogContentValidation: Display: Validating /Script/Engine.World /Game/AI_Planning/Level/Tester.Tester
+[2024.02.07-21.58.43:144][912]LogEditorViewport: Clicking Background
+[2024.02.07-21.58.52:526][  3]LogEditor: Attempting to add actor of class 'SkyLight' to level at 0.00,0.00,0.00
+[2024.02.07-21.58.52:807][ 31]LogEditor: Attempting to add actor of class 'SkyAtmosphere' to level at 0.00,0.00,0.00
+[2024.02.07-21.58.53:276][ 84]LogEditor: Attempting to add actor of class 'DirectionalLight' to level at 0.00,0.00,0.00
+[2024.02.07-21.58.53:584][113]LogEditor: Attempting to add actor of class 'VolumetricCloud' to level at 0.00,0.00,0.00
+[2024.02.07-21.58.54:184][182]LogEditor: Attempting to add actor of class 'ExponentialHeightFog' to level at 0.00,0.00,0.00
+[2024.02.07-21.58.55:124][291]LogSlate: Window 'Env. Light Mixer' being destroyed
+[2024.02.07-21.58.55:128][291]LogSlate: Window 'Env. Light Mixer' being destroyed
+[2024.02.07-21.59.02:312][128]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.07-21.59.02:338][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI_Planning/Level/Tester" FILE="D:/AI Planning New/AIPlanning/Content/AI_Planning/Level/Tester.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.07-21.59.02:344][128]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.02.07-21.59.02:349][128]LogSavePackage: Moving output files for package: /Game/AI_Planning/Level/Tester
+[2024.02.07-21.59.02:349][128]LogSavePackage: Moving 'D:/AI Planning New/AIPlanning/Saved/TesterEF04076244CF20881117FCA811032A04.tmp' to 'D:/AI Planning New/AIPlanning/Content/AI_Planning/Level/Tester.umap'
+[2024.02.07-21.59.02:356][128]LogFileHelpers: Saving map 'Tester' took 0.018
+[2024.02.07-21.59.02:366][128]LogFileHelpers: InternalPromptForCheckoutAndSave took 53 ms (total: 3.44 sec)
+[2024.02.07-21.59.02:368][128]AssetCheck: New page: Asset Save: Tester
+[2024.02.07-21.59.02:368][128]LogContentValidation: Display: Validating /Script/Engine.World /Game/AI_Planning/Level/Tester.Tester
+[2024.02.07-21.59.54:000][762]LogEditorViewport: Clicking Background
+[2024.02.07-22.00.14:060][284]LogEditorViewport: Clicking Background
+[2024.02.07-22.00.15:209][355]LogEditorViewport: Clicking Background
+[2024.02.07-22.00.16:178][432]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.02.07-22.00.21:004][609]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2024.02.07-22.00.21:004][609]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2024.02.07-22.00.21:006][609]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/AI_Planning/Level/Tester.Tester:PersistentLevel.StaticMeshActor_0
+[2024.02.07-22.00.21:013][609]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/AI_Planning/Level/Tester.Tester:PersistentLevel.StaticMeshActor_0
+[2024.02.07-22.00.28:544][123]LogEditorViewport: Clicking Background
+[2024.02.07-22.00.29:757][221]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.02.07-22.04.54:523][919]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2024.02.07-22.04.54:523][919]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2024.02.07-22.04.54:524][919]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/AI_Planning/Level/Tester.Tester:PersistentLevel.StaticMeshActor_1
+[2024.02.07-22.04.54:524][919]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/AI_Planning/Level/Tester.Tester:PersistentLevel.StaticMeshActor_1
+[2024.02.07-22.06.49:559][686]Cmd: DELETE
+[2024.02.07-22.06.49:559][686]Cmd: ACTOR DELETE
+[2024.02.07-22.06.49:593][686]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.07-22.06.49:602][686]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.02.07-22.06.49:604][686]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2024.02.07-22.06.51:353][828]Cmd: DELETE
+[2024.02.07-22.06.51:353][828]Cmd: ACTOR DELETE
+[2024.02.07-22.06.51:355][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.07-22.06.51:361][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2024.02.07-22.06.51:364][828]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2024.02.07-22.08.23:325][849]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2024.02.07-22.08.23:327][849]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2024.02.07-22.08.23:327][849]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 as actor: StaticMeshActor /Game/AI_Planning/Level/Tester.Tester:PersistentLevel.StaticMeshActor_2
+[2024.02.07-22.08.25:400][ 17]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2024.02.07-22.08.25:400][ 17]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2024.02.07-22.08.25:401][ 17]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 as actor: StaticMeshActor /Game/AI_Planning/Level/Tester.Tester:PersistentLevel.StaticMeshActor_3
+[2024.02.07-22.08.56:879][962]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave Explosion01...
+[2024.02.07-22.08.56:879][962]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave Explosion02...
+[2024.02.07-22.08.56:879][962]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/StarterContent/Audio/Explosion_Cue.Explosion_Cue was zero and has changed. Consider manually Re-saving the asset
+[2024.02.07-22.08.56:889][962]LogAudio: Display: Chunk size for SoundWave /Game/StarterContent/Audio/Explosion01.Explosion01: 262144
+[2024.02.07-22.08.56:892][962]LogAudio: Display: Chunk size for SoundWave /Game/StarterContent/Audio/Explosion02.Explosion02: 262144
+[2024.02.07-22.09.07:489][617]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.07-22.09.07:529][618]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.07-22.09.07:558][619]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.07-22.09.15:409][112]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StarterContent/Blueprints/Blueprint_Effect_Explosion.Blueprint_Effect_Explosion_C
+[2024.02.07-22.09.15:409][112]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StarterContent/Blueprints/Blueprint_Effect_Explosion.Blueprint_Effect_Explosion_C
+[2024.02.07-22.09.15:410][112]LogActorFactory: Actor Factory spawned Blueprint /Game/StarterContent/Blueprints/Blueprint_Effect_Explosion.Blueprint_Effect_Explosion as actor: Blueprint_Effect_Explosion_C /Game/AI_Planning/Level/Tester.Tester:PersistentLevel.Blueprint_Effect_Explosion_C_0
+[2024.02.07-22.09.15:411][112]LogActorFactory: Actor Factory spawned Blueprint /Game/StarterContent/Blueprints/Blueprint_Effect_Explosion.Blueprint_Effect_Explosion as actor: Blueprint_Effect_Explosion_C /Game/AI_Planning/Level/Tester.Tester:PersistentLevel.Blueprint_Effect_Explosion_C_0
+[2024.02.07-22.09.15:820][144]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StarterContent/Blueprints/Blueprint_Effect_Explosion.Blueprint_Effect_Explosion_C
+[2024.02.07-22.09.15:820][144]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StarterContent/Blueprints/Blueprint_Effect_Explosion.Blueprint_Effect_Explosion_C
+[2024.02.07-22.09.15:822][144]LogActorFactory: Actor Factory spawned Blueprint /Game/StarterContent/Blueprints/Blueprint_Effect_Explosion.Blueprint_Effect_Explosion as actor: Blueprint_Effect_Explosion_C /Game/AI_Planning/Level/Tester.Tester:PersistentLevel.Blueprint_Effect_Explosion_C_1
+[2024.02.07-22.09.15:822][144]LogActorFactory: Actor Factory spawned Blueprint /Game/StarterContent/Blueprints/Blueprint_Effect_Explosion.Blueprint_Effect_Explosion as actor: Blueprint_Effect_Explosion_C /Game/AI_Planning/Level/Tester.Tester:PersistentLevel.Blueprint_Effect_Explosion_C_1
+[2024.02.07-22.09.30:930][354]Cmd: DELETE
+[2024.02.07-22.09.30:930][354]Cmd: ACTOR DELETE
+[2024.02.07-22.09.30:931][354]LogEditorActor: Deleted Actor: Blueprint_Effect_Explosion_C
+[2024.02.07-22.09.30:943][354]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.02.07-22.09.30:947][354]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2024.02.07-22.09.52:652][852]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StarterContent/Blueprints/Blueprint_CeilingLight.Blueprint_CeilingLight_C
+[2024.02.07-22.09.52:652][852]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StarterContent/Blueprints/Blueprint_CeilingLight.Blueprint_CeilingLight_C
+[2024.02.07-22.09.52:653][852]LogActorFactory: Actor Factory spawned Blueprint /Game/StarterContent/Blueprints/Blueprint_CeilingLight.Blueprint_CeilingLight as actor: Blueprint_CeilingLight_C /Game/AI_Planning/Level/Tester.Tester:PersistentLevel.Blueprint_CeilingLight_C_0
+[2024.02.07-22.09.52:654][852]LogActorFactory: Actor Factory spawned Blueprint /Game/StarterContent/Blueprints/Blueprint_CeilingLight.Blueprint_CeilingLight as actor: Blueprint_CeilingLight_C /Game/AI_Planning/Level/Tester.Tester:PersistentLevel.Blueprint_CeilingLight_C_0
+[2024.02.07-22.09.53:209][895]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StarterContent/Blueprints/Blueprint_CeilingLight.Blueprint_CeilingLight_C
+[2024.02.07-22.09.53:209][895]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StarterContent/Blueprints/Blueprint_CeilingLight.Blueprint_CeilingLight_C
+[2024.02.07-22.09.53:210][895]LogActorFactory: Actor Factory spawned Blueprint /Game/StarterContent/Blueprints/Blueprint_CeilingLight.Blueprint_CeilingLight as actor: Blueprint_CeilingLight_C /Game/AI_Planning/Level/Tester.Tester:PersistentLevel.Blueprint_CeilingLight_C_1
+[2024.02.07-22.09.53:211][895]LogActorFactory: Actor Factory spawned Blueprint /Game/StarterContent/Blueprints/Blueprint_CeilingLight.Blueprint_CeilingLight as actor: Blueprint_CeilingLight_C /Game/AI_Planning/Level/Tester.Tester:PersistentLevel.Blueprint_CeilingLight_C_1
+[2024.02.07-22.09.58:421][319]Cmd: DELETE
+[2024.02.07-22.09.58:421][319]Cmd: ACTOR DELETE
+[2024.02.07-22.09.58:423][319]LogEditorActor: Deleted Actor: Blueprint_CeilingLight_C
+[2024.02.07-22.09.58:434][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.02.07-22.09.58:437][319]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2024.02.07-22.10.03:701][677]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Blueprints/Assets/SM_Arrows.SM_Arrows
+[2024.02.07-22.10.03:701][677]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Blueprints/Assets/SM_Arrows.SM_Arrows
+[2024.02.07-22.10.03:701][677]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Blueprints/Assets/SM_Arrows.SM_Arrows as actor: StaticMeshActor /Game/AI_Planning/Level/Tester.Tester:PersistentLevel.StaticMeshActor_4
+[2024.02.07-22.10.06:558][909]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Blueprints/Assets/SM_Arrows.SM_Arrows
+[2024.02.07-22.10.06:558][909]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Blueprints/Assets/SM_Arrows.SM_Arrows
+[2024.02.07-22.10.06:559][909]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Blueprints/Assets/SM_Arrows.SM_Arrows as actor: StaticMeshActor /Game/AI_Planning/Level/Tester.Tester:PersistentLevel.StaticMeshActor_5
+[2024.02.07-22.10.11:518][305]Cmd: DELETE
+[2024.02.07-22.10.11:518][305]Cmd: ACTOR DELETE
+[2024.02.07-22.10.11:519][305]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.07-22.10.11:530][305]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.02.07-22.10.11:533][305]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2024.02.07-22.11.13:847][567]LogSlate: Took 0.000199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.02.07-22.11.24:942][101]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 E:/Epic Games/UE_5.2/FeaturePacks/TP_ThirdPersonBP.upack)
+[2024.02.07-22.11.24:961][101]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2024.02.07-22.11.24:966][101]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Maps/ThirdPersonMap.umap" to "D:/AI Planning New/AIPlanning/Content/ThirdPerson/Maps/ThirdPersonMap.umap"
+[2024.02.07-22.11.24:974][101]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Maps/ThirdPersonMap_BuiltData.uasset" to "D:/AI Planning New/AIPlanning/Content/ThirdPerson/Maps/ThirdPersonMap_BuiltData.uasset"
+[2024.02.07-22.11.24:978][101]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" to "D:/AI Planning New/AIPlanning/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+[2024.02.07-22.11.24:982][101]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset" to "D:/AI Planning New/AIPlanning/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset"
+[2024.02.07-22.11.24:986][101]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Input/IMC_Default.uasset" to "D:/AI Planning New/AIPlanning/Content/ThirdPerson/Input/IMC_Default.uasset"
+[2024.02.07-22.11.24:990][101]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Input/Actions/IA_Jump.uasset" to "D:/AI Planning New/AIPlanning/Content/ThirdPerson/Input/Actions/IA_Jump.uasset"
+[2024.02.07-22.11.24:994][101]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Input/Actions/IA_Look.uasset" to "D:/AI Planning New/AIPlanning/Content/ThirdPerson/Input/Actions/IA_Look.uasset"
+[2024.02.07-22.11.24:997][101]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Input/Actions/IA_Move.uasset" to "D:/AI Planning New/AIPlanning/Content/ThirdPerson/Input/Actions/IA_Move.uasset"
+[2024.02.07-22.11.25:002][101]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/43/HYQWORMY4JDQ5X3OKZXFLC.uasset" to "D:/AI Planning New/AIPlanning/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/43/HYQWORMY4JDQ5X3OKZXFLC.uasset"
+[2024.02.07-22.11.25:008][101]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/FG/C9C8NKPQ680JETAE5ROTT1.uasset" to "D:/AI Planning New/AIPlanning/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/FG/C9C8NKPQ680JETAE5ROTT1.uasset"
+[2024.02.07-22.11.25:014][101]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/TK/PIQ0B2FNWR15P52TECP27A.uasset" to "D:/AI Planning New/AIPlanning/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/TK/PIQ0B2FNWR15P52TECP27A.uasset"
+[2024.02.07-22.11.25:018][101]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/D8/3MZ6M1DB94VN44C87D65WR.uasset" to "D:/AI Planning New/AIPlanning/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/D8/3MZ6M1DB94VN44C87D65WR.uasset"
+[2024.02.07-22.11.25:023][101]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER.uasset" to "D:/AI Planning New/AIPlanning/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER.uasset"
+[2024.02.07-22.11.25:337][101]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/SY/Z4CTQ4LG3YV10EKPD0UE8Q.uasset" to "D:/AI Planning New/AIPlanning/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/SY/Z4CTQ4LG3YV10EKPD0UE8Q.uasset"
+[2024.02.07-22.11.25:341][101]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0G/JNKFA4X9LRMSF343ESPF6Q.uasset" to "D:/AI Planning New/AIPlanning/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0G/JNKFA4X9LRMSF343ESPF6Q.uasset"
+[2024.02.07-22.11.25:345][101]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset" to "D:/AI Planning New/AIPlanning/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset"
+[2024.02.07-22.11.25:349][101]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WU/NB37RT5Q32Z8MJWD8BD2SO.uasset" to "D:/AI Planning New/AIPlanning/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WU/NB37RT5Q32Z8MJWD8BD2SO.uasset"
+[2024.02.07-22.11.25:353][101]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset" to "D:/AI Planning New/AIPlanning/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset"
+[2024.02.07-22.11.25:356][101]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3V/NMHOKL5LGQDOAAG00FUMZR.uasset" to "D:/AI Planning New/AIPlanning/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3V/NMHOKL5LGQDOAAG00FUMZR.uasset"
+[2024.02.07-22.11.25:360][101]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/4/VW/TY7TSUER9KKGHX2BMKSL0L.uasset" to "D:/AI Planning New/AIPlanning/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/4/VW/TY7TSUER9KKGHX2BMKSL0L.uasset"
+[2024.02.07-22.11.25:364][101]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/EY/87SHEJN5UBEAN2K5OV1G6R.uasset" to "D:/AI Planning New/AIPlanning/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/EY/87SHEJN5UBEAN2K5OV1G6R.uasset"
+[2024.02.07-22.11.25:369][101]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/M3/7JQC72ZY37QM4IT43WD5CW.uasset" to "D:/AI Planning New/AIPlanning/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/M3/7JQC72ZY37QM4IT43WD5CW.uasset"
+[2024.02.07-22.11.25:373][101]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/P3/O43ETCZTFMLWWH1CJ941H2.uasset" to "D:/AI Planning New/AIPlanning/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/P3/O43ETCZTFMLWWH1CJ941H2.uasset"
+[2024.02.07-22.11.25:376][101]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/LN/30UBDLYFFA5ZR7U4W4L4GG.uasset" to "D:/AI Planning New/AIPlanning/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/LN/30UBDLYFFA5ZR7U4W4L4GG.uasset"
+[2024.02.07-22.11.25:380][101]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/60/5PI42YRDC8HSSG6BVV2GRR.uasset" to "D:/AI Planning New/AIPlanning/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/60/5PI42YRDC8HSSG6BVV2GRR.uasset"
+[2024.02.07-22.11.25:384][101]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/C/7N/FDH7Y28CQFXDK8P6MM1HXM.uasset" to "D:/AI Planning New/AIPlanning/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/C/7N/FDH7Y28CQFXDK8P6MM1HXM.uasset"
+[2024.02.07-22.11.25:388][101]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/11/IM858T68EBXCBX1T2FNR96.uasset" to "D:/AI Planning New/AIPlanning/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/11/IM858T68EBXCBX1T2FNR96.uasset"
+[2024.02.07-22.11.25:392][101]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset" to "D:/AI Planning New/AIPlanning/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset"
+[2024.02.07-22.11.25:396][101]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PN/2QISIGK5DJNQ05US8O8FXW.uasset" to "D:/AI Planning New/AIPlanning/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PN/2QISIGK5DJNQ05US8O8FXW.uasset"
+[2024.02.07-22.11.25:400][101]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/9Q/U98KGKQ41NJYFOGFQM8ZDY.uasset" to "D:/AI Planning New/AIPlanning/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/9Q/U98KGKQ41NJYFOGFQM8ZDY.uasset"
+[2024.02.07-22.11.25:404][101]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/QO/CO9MG7REJF8N8AQFYRCI06.uasset" to "D:/AI Planning New/AIPlanning/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/QO/CO9MG7REJF8N8AQFYRCI06.uasset"
+[2024.02.07-22.11.25:408][101]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416.uasset" to "D:/AI Planning New/AIPlanning/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416.uasset"
+[2024.02.07-22.11.25:412][101]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/FR/LBG6LPN5JCL3FMVSI2CK6R.uasset" to "D:/AI Planning New/AIPlanning/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/FR/LBG6LPN5JCL3FMVSI2CK6R.uasset"
+[2024.02.07-22.11.25:416][101]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset" to "D:/AI Planning New/AIPlanning/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset"
+[2024.02.07-22.11.25:420][101]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/E/GP/22PD314FCWY4ZK61DE3XZC.uasset" to "D:/AI Planning New/AIPlanning/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/E/GP/22PD314FCWY4ZK61DE3XZC.uasset"
+[2024.02.07-22.11.25:424][101]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3J/6B9RJI3FDPCETRKXUXCQ4C.uasset" to "D:/AI Planning New/AIPlanning/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3J/6B9RJI3FDPCETRKXUXCQ4C.uasset"
+[2024.02.07-22.11.25:428][101]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HF/9H7TKAXH9DD8KI3TIXGI2I.uasset" to "D:/AI Planning New/AIPlanning/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HF/9H7TKAXH9DD8KI3TIXGI2I.uasset"
+[2024.02.07-22.11.25:433][101]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/XB/9VVR39MG0K7W5GQIEFE7SO.uasset" to "D:/AI Planning New/AIPlanning/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/XB/9VVR39MG0K7W5GQIEFE7SO.uasset"
+[2024.02.07-22.11.25:437][101]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/CZ/K2YM0JIRZ78IHGM8W2QBAF.uasset" to "D:/AI Planning New/AIPlanning/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/CZ/K2YM0JIRZ78IHGM8W2QBAF.uasset"
+[2024.02.07-22.11.25:440][101]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/NC/UUYHDUFQAXTRRN4RVOPIUF.uasset" to "D:/AI Planning New/AIPlanning/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/NC/UUYHDUFQAXTRRN4RVOPIUF.uasset"
+[2024.02.07-22.11.25:445][101]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.uasset" to "D:/AI Planning New/AIPlanning/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.uasset"
+[2024.02.07-22.11.25:449][101]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/J7/N10XDC9G27EMLS5AGZ6AVV.uasset" to "D:/AI Planning New/AIPlanning/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/J7/N10XDC9G27EMLS5AGZ6AVV.uasset"
+[2024.02.07-22.11.25:452][101]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset" to "D:/AI Planning New/AIPlanning/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset"
+[2024.02.07-22.11.25:456][101]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/S1/DXUWD12MD3HRWVVXX076BY.uasset" to "D:/AI Planning New/AIPlanning/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/S1/DXUWD12MD3HRWVVXX076BY.uasset"
+[2024.02.07-22.11.25:461][101]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset" to "D:/AI Planning New/AIPlanning/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset"
+[2024.02.07-22.11.25:465][101]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/17/6LXV4Y6DE3LUT705XNU4DZ.uasset" to "D:/AI Planning New/AIPlanning/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/17/6LXV4Y6DE3LUT705XNU4DZ.uasset"
+[2024.02.07-22.11.25:469][101]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6.uasset" to "D:/AI Planning New/AIPlanning/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6.uasset"
+[2024.02.07-22.11.25:473][101]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4D/BBOCKSZY1GVHTFRX0PR0O8.uasset" to "D:/AI Planning New/AIPlanning/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4D/BBOCKSZY1GVHTFRX0PR0O8.uasset"
+[2024.02.07-22.11.25:477][101]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/EA/9BWDWCNL7OZT2HTML9LK1Y.uasset" to "D:/AI Planning New/AIPlanning/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/EA/9BWDWCNL7OZT2HTML9LK1Y.uasset"
+[2024.02.07-22.11.25:481][101]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/8K/1IKKDYS7RULH8FRYRPPF04.uasset" to "D:/AI Planning New/AIPlanning/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/8K/1IKKDYS7RULH8FRYRPPF04.uasset"
+[2024.02.07-22.11.25:485][101]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QF/BY1DA5CRGQSAMOTK8RA8KR.uasset" to "D:/AI Planning New/AIPlanning/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QF/BY1DA5CRGQSAMOTK8RA8KR.uasset"
+[2024.02.07-22.11.25:488][101]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/YT/CQR16QFDKKEYP53M51TV4F.uasset" to "D:/AI Planning New/AIPlanning/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/YT/CQR16QFDKKEYP53M51TV4F.uasset"
+[2024.02.07-22.11.25:492][101]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/FB/8RB55FM1HBEUVO4IOQC4YN.uasset" to "D:/AI Planning New/AIPlanning/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/FB/8RB55FM1HBEUVO4IOQC4YN.uasset"
+[2024.02.07-22.11.25:497][101]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/U7/H8YL2PPHZPBTI74SUD0RNL.uasset" to "D:/AI Planning New/AIPlanning/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/U7/H8YL2PPHZPBTI74SUD0RNL.uasset"
+[2024.02.07-22.11.25:500][101]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/9/KN/KHZG97SS6AL73U7AXDWH6J.uasset" to "D:/AI Planning New/AIPlanning/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/9/KN/KHZG97SS6AL73U7AXDWH6J.uasset"
+[2024.02.07-22.11.25:513][101]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.07-22.11.25:577][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Maps/ThirdPersonMap_BuiltData" FILE="D:/AI Planning New/AIPlanning/Content/ThirdPerson/Maps/ThirdPersonMap_BuiltData.uasset" SILENT=true
+[2024.02.07-22.11.25:622][101]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/ThirdPersonMap_BuiltData
+[2024.02.07-22.11.25:623][101]LogSavePackage: Moving 'D:/AI Planning New/AIPlanning/Saved/ThirdPersonMap_BuiltData918A10D94BD7117C06A8369071433473.tmp' to 'D:/AI Planning New/AIPlanning/Content/ThirdPerson/Maps/ThirdPersonMap_BuiltData.uasset'
+[2024.02.07-22.11.25:629][101]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms (total: 3.56 sec)
+[2024.02.07-22.11.26:126][101]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Fall_Loop.MM_Fall_Loop
+[2024.02.07-22.11.26:132][101]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Idle.MM_Idle
+[2024.02.07-22.11.26:139][101]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Jump.MM_Jump
+[2024.02.07-22.11.26:147][101]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Land.MM_Land
+[2024.02.07-22.11.26:151][101]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Run_Fwd.MM_Run_Fwd
+[2024.02.07-22.11.26:155][101]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd.MM_Walk_Fwd
+[2024.02.07-22.11.26:163][101]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Walk_InPlace.MM_Walk_InPlace
+[2024.02.07-22.11.26:245][101]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Quinn/MF_Idle.MF_Idle
+[2024.02.07-22.11.26:251][101]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Quinn/MF_Run_Fwd.MF_Run_Fwd
+[2024.02.07-22.11.26:258][101]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Quinn/MF_Walk_Fwd.MF_Walk_Fwd
+[2024.02.07-22.11.26:274][101]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2024.02.07-22.11.26:400][101]AssetCheck: New page: Asset Save: ThirdPersonMap_BuiltData
+[2024.02.07-22.11.26:400][101]LogContentValidation: Display: Validating /Script/Engine.MapBuildDataRegistry /Game/ThirdPerson/Maps/ThirdPersonMap_BuiltData.ThirdPersonMap_BuiltData
+[2024.02.07-22.11.27:059][136]LogSlate: Window 'Add Content to the Project' being destroyed
+[2024.02.07-22.11.50:161][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.02.07-22.11.50:169][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2024.02.07-22.11.51:855][814]LogSlate: Window 'Save Content' being destroyed
+[2024.02.07-22.11.51:867][814]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.07-22.11.51:887][814]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI_Planning/Level/Tester" FILE="D:/AI Planning New/AIPlanning/Content/AI_Planning/Level/Tester.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.07-22.11.51:893][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2024.02.07-22.11.51:897][814]LogSavePackage: Moving output files for package: /Game/AI_Planning/Level/Tester
+[2024.02.07-22.11.51:898][814]LogSavePackage: Moving 'D:/AI Planning New/AIPlanning/Saved/Tester08A1F8FA4C7CADAC906C8AA140F90B9A.tmp' to 'D:/AI Planning New/AIPlanning/Content/AI_Planning/Level/Tester.umap'
+[2024.02.07-22.11.51:904][814]LogFileHelpers: Saving map 'Tester' took 0.017
+[2024.02.07-22.11.51:909][814]LogFileHelpers: InternalPromptForCheckoutAndSave took 42 ms (total: 3.60 sec)
+[2024.02.07-22.11.51:941][814]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.07-22.11.51:941][814]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2024.02.07-22.11.51:941][814]Cmd: MAP LOAD FILE="D:/AI Planning New/AIPlanning/Content/ThirdPerson/Maps/ThirdPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.02.07-22.11.51:941][814]LightingResults: New page: Lighting Build
+[2024.02.07-22.11.51:942][814]LoadErrors: New page: Loading map: ThirdPersonMap.umap
+[2024.02.07-22.11.51:977][814]LogWorld: UWorld::CleanupWorld for Tester, bSessionEnded=true, bCleanupResources=true
+[2024.02.07-22.11.51:978][814]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.07-22.11.51:978][814]MapCheck: New page: Map Check
+[2024.02.07-22.11.51:978][814]LightingResults: New page: Lighting Build
+[2024.02.07-22.11.51:983][814]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.07-22.11.51:984][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.02.07-22.11.51:986][814]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.07-22.11.51:986][814]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.07-22.11.51:993][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.02.07-22.11.51:999][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.02.07-22.11.52:005][814]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2024.02.07-22.11.52:005][814]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.07-22.11.52:005][814]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.07-22.11.52:006][814]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.02.07-22.11.52:006][814]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2024.02.07-22.11.52:006][814]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.02.07-22.11.52:006][814]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.02.07-22.11.52:048][814]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.02.07-22.11.52:048][814]LogWorldPartition: Display: WorldPartition initialize took 42 ms (total: 223 ms)
+[2024.02.07-22.11.52:116][814]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.02.07-22.11.52:123][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.02.07-22.11.52:124][814]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.02.07-22.11.52:125][814]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.181ms to complete.
+[2024.02.07-22.11.52:125][814]LogFileHelpers: Loading map 'ThirdPersonMap' took 0.183
+[2024.02.07-22.11.52:141][814]AssetCheck: New page: Asset Save: Tester
+[2024.02.07-22.12.02:689][589]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.07-22.12.16:340][532]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/LevelPrototyping/Meshes/SM_ChamferCube.SM_ChamferCube
+[2024.02.07-22.12.16:405][532]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.07-22.12.16:405][532]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.07-22.12.16:816][532]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2024.02.07-22.12.22:509][828]LogSlate: Window 'SM_ChamferCube' being destroyed
+[2024.02.07-22.12.22:566][828]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.02.07-22.12.22:566][828]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.07-22.12.42:056][ 92]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/LevelPrototyping/Meshes/SM_ChamferCube.SM_ChamferCube
+[2024.02.07-22.12.42:099][ 92]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.07-22.12.42:099][ 92]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.07-22.12.42:303][ 92]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2024.02.07-22.12.44:259][197]LogSlate: Window 'SM_ChamferCube' being destroyed
+[2024.02.07-22.12.44:286][197]LogSlate: Window 'SM_ChamferCube' being destroyed
+[2024.02.07-22.12.44:308][197]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.02.07-22.12.44:308][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.07-22.12.52:235][792]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.07-22.12.52:842][825]LogShaderCompilers: Display: ================================================
+[2024.02.07-22.12.52:842][825]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.02.07-22.12.52:842][825]LogShaderCompilers: Display: Total job queries 111, among them cache hits 0 (0.00%)
+[2024.02.07-22.12.52:842][825]LogShaderCompilers: Display: Tracking 109 distinct input hashes that result in 90 distinct outputs (82.57%)
+[2024.02.07-22.12.52:842][825]LogShaderCompilers: Display: RAM used: 2.91 MiB of 1.60 GiB budget. Usage: 0.18%
+[2024.02.07-22.12.52:842][825]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.02.07-22.12.52:842][825]LogShaderCompilers: Display: Shaders Compiled: 109
+[2024.02.07-22.12.52:842][825]LogShaderCompilers: Display: Jobs assigned 111, completed 109 (98.20%)
+[2024.02.07-22.12.52:842][825]LogShaderCompilers: Display: Average time worker was idle: 174.11 s
+[2024.02.07-22.12.52:842][825]LogShaderCompilers: Display: Time job spent in pending queue: average 2.27 s, longest 8.92 s
+[2024.02.07-22.12.52:842][825]LogShaderCompilers: Display: Job execution time: average 3.54 s, max 7.50 s
+[2024.02.07-22.12.52:842][825]LogShaderCompilers: Display: Job life time (pending + execution): average 5.85 s, max 10.14
+[2024.02.07-22.12.52:842][825]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 13.49 s
+[2024.02.07-22.12.52:842][825]LogShaderCompilers: Display: Jobs were issued in 54 batches (only local compilation was used), average 2.06 jobs/batch
+[2024.02.07-22.12.52:842][825]LogShaderCompilers: Display: Average processing rate: 8.08 jobs/sec
+[2024.02.07-22.12.52:843][825]LogShaderCompilers: Display: Total thread time: 85.237 s
+[2024.02.07-22.12.52:843][825]LogShaderCompilers: Display: Total thread preprocess time: 2.394 s
+[2024.02.07-22.12.52:843][825]LogShaderCompilers: Display: Percentage time preprocessing: 2.81%
+[2024.02.07-22.12.52:843][825]LogShaderCompilers: Display: Effective parallelization: 6.32 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.02.07-22.12.52:843][825]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.02.07-22.12.52:843][825]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    5 times, average 1.02 sec, max 1.51 sec, min 0.59 sec)
+[2024.02.07-22.12.52:843][825]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled    5 times, average 1.00 sec, max 1.60 sec, min 0.53 sec)
+[2024.02.07-22.12.52:843][825]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    5 times, average 1.00 sec, max 1.51 sec, min 0.61 sec)
+[2024.02.07-22.12.52:843][825]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    5 times, average 0.99 sec, max 1.39 sec, min 0.62 sec)
+[2024.02.07-22.12.52:843][825]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled    5 times, average 0.99 sec, max 1.57 sec, min 0.57 sec)
+[2024.02.07-22.12.52:843][825]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.02.07-22.12.52:843][825]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ - 5.97% of total time (compiled    5 times, average 1.02 sec, max 1.51 sec, min 0.59 sec)
+[2024.02.07-22.12.52:843][825]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ - 5.87% of total time (compiled    5 times, average 1.00 sec, max 1.60 sec, min 0.53 sec)
+[2024.02.07-22.12.52:843][825]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight - 5.84% of total time (compiled    5 times, average 1.00 sec, max 1.51 sec, min 0.61 sec)
+[2024.02.07-22.12.52:843][825]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 5.83% of total time (compiled    5 times, average 0.99 sec, max 1.39 sec, min 0.62 sec)
+[2024.02.07-22.12.52:843][825]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight - 5.78% of total time (compiled    5 times, average 0.99 sec, max 1.57 sec, min 0.57 sec)
+[2024.02.07-22.12.52:843][825]LogShaderCompilers: Display: ================================================
+[2024.02.07-22.13.01:280][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.02.07-22.13.01:313][428]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.07-22.13.01:313][428]LogAssetEditorSubsystem: Opening Asset editor for World /Game/AI_Planning/Level/Tester.Tester
+[2024.02.07-22.13.01:314][428]Cmd: MAP LOAD FILE="D:/AI Planning New/AIPlanning/Content/AI_Planning/Level/Tester.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.02.07-22.13.01:314][428]LightingResults: New page: Lighting Build
+[2024.02.07-22.13.01:314][428]LoadErrors: New page: Loading map: Tester.umap
+[2024.02.07-22.13.01:315][428]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.07-22.13.01:315][428]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.07-22.13.01:318][428]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.02.07-22.13.01:318][428]MapCheck: New page: Map Check
+[2024.02.07-22.13.01:318][428]LightingResults: New page: Lighting Build
+[2024.02.07-22.13.01:324][428]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.07-22.13.01:326][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.02.07-22.13.01:328][428]LogWorld: UWorld::CleanupWorld for Tester, bSessionEnded=true, bCleanupResources=true
+[2024.02.07-22.13.01:328][428]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.07-22.13.01:334][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.02.07-22.13.01:340][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.02.07-22.13.01:342][428]LogAudio: Display: Audio Device (ID: 1) registered with world 'Tester'.
+[2024.02.07-22.13.01:342][428]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.07-22.13.01:342][428]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.07-22.13.01:343][428]LogAIModule: Creating AISystem for world Tester
+[2024.02.07-22.13.01:374][428]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.02.07-22.13.01:379][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.02.07-22.13.01:381][428]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.02.07-22.13.01:382][428]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.063ms to complete.
+[2024.02.07-22.13.01:382][428]LogFileHelpers: Loading map 'Tester' took 0.068
+[2024.02.07-22.13.03:642][599]Cmd: DELETE
+[2024.02.07-22.13.03:642][599]Cmd: ACTOR DELETE
+[2024.02.07-22.13.03:643][599]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.07-22.13.03:650][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.02.07-22.13.03:653][599]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2024.02.07-22.13.16:932][527]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Shapes/Shape_Plane.Shape_Plane
+[2024.02.07-22.13.16:932][527]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Shapes/Shape_Plane.Shape_Plane
+[2024.02.07-22.13.16:933][527]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Shapes/Shape_Plane.Shape_Plane as actor: StaticMeshActor /Game/AI_Planning/Level/Tester.Tester:PersistentLevel.StaticMeshActor_0
+[2024.02.07-22.13.17:707][588]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Shapes/Shape_Plane.Shape_Plane
+[2024.02.07-22.13.17:707][588]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Shapes/Shape_Plane.Shape_Plane
+[2024.02.07-22.13.17:708][588]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Shapes/Shape_Plane.Shape_Plane as actor: StaticMeshActor /Game/AI_Planning/Level/Tester.Tester:PersistentLevel.StaticMeshActor_1
+[2024.02.07-22.13.27:388][194]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.02.07-22.14.30:742][171]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.07-22.14.30:742][171]PIE: New page: SIE session: Tester (07-Feb-2024, 10:14:30 pm)
+[2024.02.07-22.14.30:742][171]LogPlayLevel: Creating play world package: /Game/AI_Planning/Level/UEDPIE_0_Tester
+[2024.02.07-22.14.30:744][171]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001211s)
+[2024.02.07-22.14.30:744][171]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AI_Planning/Level/Tester.Tester to /Game/AI_Planning/Level/UEDPIE_0_Tester.Tester (0.001237s)
+[2024.02.07-22.14.30:744][171]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.07-22.14.30:744][171]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.07-22.14.30:744][171]LogAIModule: Creating AISystem for world Tester
+[2024.02.07-22.14.30:744][171]LogPlayLevel: PIE: World Init took: (0.000646s)
+[2024.02.07-22.14.30:751][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.02.07-22.14.30:755][171]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.02.07-22.14.30:755][171]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.07-22.14.30:755][171]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.07-22.14.30:755][171]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.07-22.14.30:755][171]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.07-22.14.30:755][171]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.07-22.14.30:755][171]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.07-22.14.30:755][171]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.07-22.14.30:755][171]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.07-22.14.30:755][171]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.07-22.14.30:755][171]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.07-22.14.30:755][171]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.07-22.14.30:757][171]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.07-22.14.30:775][171]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2024.02.07-22.14.30:776][171]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.07-22.14.30:776][171]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.07-22.14.30:776][171]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.07-22.14.30:776][171]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.02.07-22.14.30:776][171]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.02.07-22.14.30:778][171]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.02.07-22.14.30:778][171]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.02.07-22.14.30:778][171]LogInit: FAudioDevice initialized with ID 5.
+[2024.02.07-22.14.30:778][171]LogAudio: Display: Audio Device (ID: 5) registered with world 'Tester'.
+[2024.02.07-22.14.30:778][171]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.02.07-22.14.30:780][171]LogLoad: Game class is 'GameModeBase'
+[2024.02.07-22.14.30:780][171]LogWorld: Bringing World /Game/AI_Planning/Level/UEDPIE_0_Tester.Tester up for play (max tick rate 0) at 2024.02.07-22.14.30
+[2024.02.07-22.14.30:781][171]LogWorld: Bringing up level for play took: 0.000451
+[2024.02.07-22.14.30:782][171]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2024.02.07-22.14.30:782][171]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.02.07-22.14.30:783][171]PIE: Server logged in
+[2024.02.07-22.14.30:783][171]PIE: Play in editor total start time 0.041 seconds.
+[2024.02.07-22.14.34:852][482]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.07-22.14.34:853][482]LogWorld: BeginTearingDown for /Game/AI_Planning/Level/UEDPIE_0_Tester
+[2024.02.07-22.14.34:853][482]LogWorld: UWorld::CleanupWorld for Tester, bSessionEnded=true, bCleanupResources=true
+[2024.02.07-22.14.34:853][482]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.07-22.14.34:855][482]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.07-22.14.34:857][482]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.07-22.14.34:863][482]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.07-22.14.34:863][482]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.02.07-22.14.34:863][482]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.02.07-22.14.34:864][482]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.02.07-22.14.34:867][482]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.07-22.14.34:869][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.02.07-22.14.34:916][485]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2024.02.07-22.14.35:701][533]LogDebuggerCommands: Repeating last play command: Simulate
+[2024.02.07-22.14.35:705][533]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.07-22.14.35:705][533]PIE: New page: SIE session: Tester (07-Feb-2024, 10:14:35 pm)
+[2024.02.07-22.14.35:705][533]LogPlayLevel: Creating play world package: /Game/AI_Planning/Level/UEDPIE_0_Tester
+[2024.02.07-22.14.35:706][533]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001031s)
+[2024.02.07-22.14.35:706][533]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AI_Planning/Level/Tester.Tester to /Game/AI_Planning/Level/UEDPIE_0_Tester.Tester (0.001056s)
+[2024.02.07-22.14.35:706][533]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.07-22.14.35:706][533]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.07-22.14.35:706][533]LogAIModule: Creating AISystem for world Tester
+[2024.02.07-22.14.35:706][533]LogPlayLevel: PIE: World Init took: (0.000586s)
+[2024.02.07-22.14.35:713][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.02.07-22.14.35:715][533]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.02.07-22.14.35:715][533]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.07-22.14.35:715][533]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.07-22.14.35:715][533]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.07-22.14.35:715][533]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.07-22.14.35:715][533]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.07-22.14.35:715][533]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.07-22.14.35:715][533]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.07-22.14.35:715][533]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.07-22.14.35:715][533]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.07-22.14.35:715][533]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.07-22.14.35:715][533]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.07-22.14.35:716][533]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.07-22.14.35:734][533]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2024.02.07-22.14.35:734][533]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.07-22.14.35:734][533]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.07-22.14.35:734][533]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.07-22.14.35:734][533]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.02.07-22.14.35:734][533]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.02.07-22.14.35:736][533]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.02.07-22.14.35:736][533]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.02.07-22.14.35:736][533]LogInit: FAudioDevice initialized with ID 6.
+[2024.02.07-22.14.35:736][533]LogAudio: Display: Audio Device (ID: 6) registered with world 'Tester'.
+[2024.02.07-22.14.35:736][533]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.02.07-22.14.35:739][533]LogLoad: Game class is 'GameModeBase'
+[2024.02.07-22.14.35:739][533]LogWorld: Bringing World /Game/AI_Planning/Level/UEDPIE_0_Tester.Tester up for play (max tick rate 0) at 2024.02.07-22.14.35
+[2024.02.07-22.14.35:739][533]LogWorld: Bringing up level for play took: 0.000425
+[2024.02.07-22.14.35:740][533]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2024.02.07-22.14.35:741][533]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.02.07-22.14.35:741][533]PIE: Server logged in
+[2024.02.07-22.14.35:742][533]PIE: Play in editor total start time 0.037 seconds.
+[2024.02.07-22.14.38:853][756]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.07-22.14.38:853][756]LogWorld: BeginTearingDown for /Game/AI_Planning/Level/UEDPIE_0_Tester
+[2024.02.07-22.14.38:853][756]LogWorld: UWorld::CleanupWorld for Tester, bSessionEnded=true, bCleanupResources=true
+[2024.02.07-22.14.38:853][756]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.07-22.14.38:855][756]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.07-22.14.38:857][756]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.07-22.14.38:863][756]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.07-22.14.38:863][756]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.02.07-22.14.38:863][756]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.02.07-22.14.38:864][756]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.02.07-22.14.38:868][756]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.02.07-22.14.38:917][759]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2024.02.07-22.14.44:565][112]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.07-22.14.44:565][112]PIE: New page: PIE session: Tester (07-Feb-2024, 10:14:44 pm)
+[2024.02.07-22.14.44:566][112]LogPlayLevel: Creating play world package: /Game/AI_Planning/Level/UEDPIE_0_Tester
+[2024.02.07-22.14.44:567][112]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001168s)
+[2024.02.07-22.14.44:567][112]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AI_Planning/Level/Tester.Tester to /Game/AI_Planning/Level/UEDPIE_0_Tester.Tester (0.001195s)
+[2024.02.07-22.14.44:567][112]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.07-22.14.44:567][112]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.07-22.14.44:567][112]LogAIModule: Creating AISystem for world Tester
+[2024.02.07-22.14.44:567][112]LogPlayLevel: PIE: World Init took: (0.000641s)
+[2024.02.07-22.14.44:574][112]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.02.07-22.14.44:576][112]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.02.07-22.14.44:576][112]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.07-22.14.44:576][112]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.07-22.14.44:576][112]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.07-22.14.44:576][112]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.07-22.14.44:576][112]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.07-22.14.44:576][112]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.07-22.14.44:576][112]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.07-22.14.44:576][112]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.07-22.14.44:576][112]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.07-22.14.44:576][112]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.07-22.14.44:576][112]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.07-22.14.44:578][112]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.07-22.14.44:595][112]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2024.02.07-22.14.44:595][112]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.07-22.14.44:595][112]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.07-22.14.44:595][112]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.07-22.14.44:595][112]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.02.07-22.14.44:596][112]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.02.07-22.14.44:597][112]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.02.07-22.14.44:597][112]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.02.07-22.14.44:597][112]LogInit: FAudioDevice initialized with ID 7.
+[2024.02.07-22.14.44:597][112]LogAudio: Display: Audio Device (ID: 7) registered with world 'Tester'.
+[2024.02.07-22.14.44:597][112]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.02.07-22.14.44:600][112]LogLoad: Game class is 'GameModeBase'
+[2024.02.07-22.14.44:600][112]LogWorld: Bringing World /Game/AI_Planning/Level/UEDPIE_0_Tester.Tester up for play (max tick rate 0) at 2024.02.07-22.14.44
+[2024.02.07-22.14.44:600][112]LogWorld: Bringing up level for play took: 0.000401
+[2024.02.07-22.14.44:601][112]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2024.02.07-22.14.44:602][112]PIE: Server logged in
+[2024.02.07-22.14.44:603][112]PIE: Play in editor total start time 0.038 seconds.
+[2024.02.07-22.14.46:694][237]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.07-22.14.46:694][237]LogWorld: BeginTearingDown for /Game/AI_Planning/Level/UEDPIE_0_Tester
+[2024.02.07-22.14.46:694][237]LogWorld: UWorld::CleanupWorld for Tester, bSessionEnded=true, bCleanupResources=true
+[2024.02.07-22.14.46:694][237]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.07-22.14.46:696][237]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.07-22.14.46:698][237]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.07-22.14.46:704][237]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.07-22.14.46:704][237]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.02.07-22.14.46:704][237]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.02.07-22.14.46:705][237]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.02.07-22.14.46:708][237]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.07-22.14.46:710][237]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.02.07-22.14.46:758][240]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2024.02.07-22.15.05:255][702]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2024.02.07-22.15.05:255][702]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2024.02.07-22.15.05:255][702]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube as actor: StaticMeshActor /Game/AI_Planning/Level/Tester.Tester:PersistentLevel.StaticMeshActor_2
+[2024.02.07-22.15.08:377][956]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2024.02.07-22.15.08:377][956]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2024.02.07-22.15.08:378][956]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube as actor: StaticMeshActor /Game/AI_Planning/Level/Tester.Tester:PersistentLevel.StaticMeshActor_4
+[2024.02.07-22.15.16:214][588]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/AI_Planning/Level/Tester.Tester:PersistentLevel.StaticMeshActor_4.StaticMeshComponent0, from: Addition to navoctree)
+[2024.02.07-22.15.16:813][637]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/AI_Planning/Level/Tester.Tester:PersistentLevel.StaticMeshActor_4.StaticMeshComponent0, from: Remove from navoctree)
+[2024.02.07-22.15.20:051][902]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/AI_Planning/Level/Tester.Tester:PersistentLevel.StaticMeshActor_4.StaticMeshComponent0, from: Addition to navoctree)
+[2024.02.07-22.15.20:382][929]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/AI_Planning/Level/Tester.Tester:PersistentLevel.StaticMeshActor_4.StaticMeshComponent0, from: Remove from navoctree)
+[2024.02.07-22.15.40:760][525]Cmd: DELETE
+[2024.02.07-22.15.40:760][525]Cmd: ACTOR DELETE
+[2024.02.07-22.15.40:761][525]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.07-22.15.40:772][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.02.07-22.15.40:776][525]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2024.02.07-22.15.47:288][972]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Shapes/Shape_Cube.Shape_Cube
+[2024.02.07-22.15.47:288][972]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Shapes/Shape_Cube.Shape_Cube
+[2024.02.07-22.15.47:288][972]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Shapes/Shape_Cube.Shape_Cube as actor: StaticMeshActor /Game/AI_Planning/Level/Tester.Tester:PersistentLevel.StaticMeshActor_5
+[2024.02.07-22.15.48:524][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Shapes/Shape_Cube.Shape_Cube
+[2024.02.07-22.15.48:524][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Shapes/Shape_Cube.Shape_Cube
+[2024.02.07-22.15.48:525][ 72]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Shapes/Shape_Cube.Shape_Cube as actor: StaticMeshActor /Game/AI_Planning/Level/Tester.Tester:PersistentLevel.StaticMeshActor_6
+[2024.02.07-22.16.01:066][ 96]Cmd: DELETE
+[2024.02.07-22.16.01:066][ 96]Cmd: ACTOR DELETE
+[2024.02.07-22.16.01:067][ 96]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.07-22.16.01:078][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.02.07-22.16.01:081][ 96]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2024.02.07-22.16.02:758][232]Cmd: DELETE
+[2024.02.07-22.16.02:758][232]Cmd: ACTOR DELETE
+[2024.02.07-22.16.02:759][232]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.07-22.16.02:766][232]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2024.02.07-22.16.02:769][232]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2024.02.07-22.16.09:165][683]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2024.02.07-22.16.09:165][683]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2024.02.07-22.16.09:166][683]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube as actor: StaticMeshActor /Game/AI_Planning/Level/Tester.Tester:PersistentLevel.StaticMeshActor_7
+[2024.02.07-22.16.11:762][894]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2024.02.07-22.16.11:762][894]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2024.02.07-22.16.11:763][894]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube as actor: StaticMeshActor /Game/AI_Planning/Level/Tester.Tester:PersistentLevel.StaticMeshActor_8
+[2024.02.07-22.17.10:262][557]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2024.02.07-22.17.10:262][557]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2024.02.07-22.17.10:262][557]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube as actor: StaticMeshActor /Game/AI_Planning/Level/Tester.Tester:PersistentLevel.StaticMeshActor_9
+[2024.02.07-22.17.10:798][600]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2024.02.07-22.17.10:798][600]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2024.02.07-22.17.10:799][600]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube as actor: StaticMeshActor /Game/AI_Planning/Level/Tester.Tester:PersistentLevel.StaticMeshActor_10
+[2024.02.07-22.17.44:259][315]Cmd: DUPLICATE
+[2024.02.07-22.17.44:259][315]Cmd: ACTOR DUPLICATE
+[2024.02.07-22.18.31:250][146]Cmd: DELETE
+[2024.02.07-22.18.31:250][146]Cmd: ACTOR DELETE
+[2024.02.07-22.18.31:251][146]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.07-22.18.31:263][146]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.02.07-22.18.31:268][146]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2024.02.07-22.18.32:895][279]Cmd: DELETE
+[2024.02.07-22.18.32:895][279]Cmd: ACTOR DELETE
+[2024.02.07-22.18.32:897][279]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.07-22.18.32:903][279]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2024.02.07-22.18.32:906][279]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2024.02.07-22.18.47:627][481]Cmd: DELETE
+[2024.02.07-22.18.47:627][481]Cmd: ACTOR DELETE
+[2024.02.07-22.18.47:628][481]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.07-22.18.47:635][481]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2024.02.07-22.18.47:638][481]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2024.02.07-22.18.55:662][ 52]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Shapes/Shape_Plane.Shape_Plane
+[2024.02.07-22.18.55:663][ 52]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Shapes/Shape_Plane.Shape_Plane
+[2024.02.07-22.18.55:663][ 52]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Shapes/Shape_Plane.Shape_Plane as actor: StaticMeshActor /Game/AI_Planning/Level/Tester.Tester:PersistentLevel.StaticMeshActor_12
+[2024.02.07-22.18.58:077][248]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Shapes/Shape_Plane.Shape_Plane
+[2024.02.07-22.18.58:077][248]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Shapes/Shape_Plane.Shape_Plane
+[2024.02.07-22.18.58:078][248]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Shapes/Shape_Plane.Shape_Plane as actor: StaticMeshActor /Game/AI_Planning/Level/Tester.Tester:PersistentLevel.StaticMeshActor_13
+[2024.02.07-22.19.41:627][559]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Shapes/Shape_Cube.Shape_Cube
+[2024.02.07-22.19.41:627][559]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Shapes/Shape_Cube.Shape_Cube
+[2024.02.07-22.19.41:627][559]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Shapes/Shape_Cube.Shape_Cube as actor: StaticMeshActor /Game/AI_Planning/Level/Tester.Tester:PersistentLevel.StaticMeshActor_14
+[2024.02.07-22.19.46:324][942]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Shapes/Shape_Cube.Shape_Cube
+[2024.02.07-22.19.46:324][942]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Shapes/Shape_Cube.Shape_Cube
+[2024.02.07-22.19.46:325][942]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Shapes/Shape_Cube.Shape_Cube as actor: StaticMeshActor /Game/AI_Planning/Level/Tester.Tester:PersistentLevel.StaticMeshActor_15
+[2024.02.07-22.19.50:769][304]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/AI_Planning/Level/Tester.Tester:PersistentLevel.StaticMeshActor_15.StaticMeshComponent0, from: Addition to navoctree)
+[2024.02.07-22.19.51:235][342]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/AI_Planning/Level/Tester.Tester:PersistentLevel.StaticMeshActor_15.StaticMeshComponent0, from: Remove from navoctree)
+[2024.02.07-22.20.44:534][687]Cmd: DELETE
+[2024.02.07-22.20.44:534][687]Cmd: ACTOR DELETE
+[2024.02.07-22.20.44:535][687]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.07-22.20.44:547][687]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.02.07-22.20.44:552][687]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2024.02.07-22.20.47:778][870]LogViewport: Scene viewport resized to 996x902, mode Windowed.
+[2024.02.07-22.21.40:887][ 53]LogViewport: Scene viewport resized to 1260x902, mode Windowed.
+[2024.02.07-22.21.43:303][218]LogViewport: Scene viewport resized to 1454x902, mode Windowed.
+[2024.02.07-22.23.10:917][292]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.02.07-22.23.10:922][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI_Planning/Level/Tester" FILE="D:/AI Planning New/AIPlanning/Saved/Autosaves/Game/AI_Planning/Level/Tester_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2024.02.07-22.23.10:926][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AI_Planning/Level/Tester_Auto1
+[2024.02.07-22.23.10:926][292]LogSavePackage: Moving 'D:/AI Planning New/AIPlanning/Saved/Tester_Auto1F2A17435405088A491C2A281CDBA8A63.tmp' to 'D:/AI Planning New/AIPlanning/Saved/Autosaves/Game/AI_Planning/Level/Tester_Auto1.umap'
+[2024.02.07-22.23.10:931][292]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/AI_Planning/Level/Tester' took 0.022
+[2024.02.07-22.23.10:931][292]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.022
+[2024.02.07-22.46.48:378][544]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2024.02.07-22.46.48:378][544]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2024.02.07-22.49.26:154][ 17]LogDerivedDataCache: C:/Users/Aravind Annadurai/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.079 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 775 files in 1346 folders with total size 18 MiB.
+[2024.02.07-22.51.14:253][340]LogViewport: Scene viewport resized to 1454x942, mode Windowed.
+[2024.02.07-22.51.14:386][340]LogViewport: Scene viewport resized to 1454x902, mode Windowed.
+[2024.02.07-22.51.16:120][341]LogViewport: Scene viewport resized to 1454x942, mode Windowed.
+[2024.02.07-22.51.16:397][343]LogViewport: Scene viewport resized to 1454x902, mode Windowed.
+[2024.02.07-22.51.16:437][343]LogViewport: Scene viewport resized to 1454x910, mode Windowed.
+[2024.02.07-22.58.21:309][753]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2024.02.07-22.58.53:213][223]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Shapes/Shape_Cube.Shape_Cube
+[2024.02.07-22.58.53:213][223]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Shapes/Shape_Cube.Shape_Cube
+[2024.02.07-22.58.53:213][223]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Shapes/Shape_Cube.Shape_Cube as actor: StaticMeshActor /Game/AI_Planning/Level/Tester.Tester:PersistentLevel.StaticMeshActor_16
+[2024.02.07-22.58.58:052][796]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Shapes/Shape_Cube.Shape_Cube
+[2024.02.07-22.58.58:052][796]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Shapes/Shape_Cube.Shape_Cube
+[2024.02.07-22.58.58:053][796]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Shapes/Shape_Cube.Shape_Cube as actor: StaticMeshActor /Game/AI_Planning/Level/Tester.Tester:PersistentLevel.StaticMeshActor_17
+[2024.02.07-22.59.01:959][234]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/AI_Planning/Level/Tester.Tester:PersistentLevel.StaticMeshActor_17.StaticMeshComponent0, from: Addition to navoctree)
+[2024.02.07-22.59.02:329][276]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/AI_Planning/Level/Tester.Tester:PersistentLevel.StaticMeshActor_17.StaticMeshComponent0, from: Remove from navoctree)
+[2024.02.07-22.59.25:375][925]Cmd: MODE GRID=0
+[2024.02.07-22.59.49:315][378]Cmd: MODE SCALEGRID=0
+[2024.02.07-22.59.56:220][122]Cmd: MODE GRID=1
+[2024.02.07-22.59.57:398][244]Cmd: MODE SCALEGRID=1
+[2024.02.07-23.00.20:340][850]Cmd: DUPLICATE
+[2024.02.07-23.00.20:340][850]Cmd: ACTOR DUPLICATE
+[2024.02.07-23.01.50:952][397]LogEditorViewport: Clicking Background
+[2024.02.07-23.02.20:453][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.02.07-23.02.20:457][ 92]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI_Planning/Level/Tester" FILE="D:/AI Planning New/AIPlanning/Saved/Autosaves/Game/AI_Planning/Level/Tester_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2024.02.07-23.02.20:460][ 92]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AI_Planning/Level/Tester_Auto2
+[2024.02.07-23.02.20:460][ 92]LogSavePackage: Moving 'D:/AI Planning New/AIPlanning/Saved/Tester_Auto28076F4A24C94B4E62E303C87F87026CA.tmp' to 'D:/AI Planning New/AIPlanning/Saved/Autosaves/Game/AI_Planning/Level/Tester_Auto2.umap'
+[2024.02.07-23.02.20:466][ 92]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/AI_Planning/Level/Tester' took 0.020
+[2024.02.07-23.02.20:466][ 92]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.020
+[2024.02.07-23.32.10:567][742]LogSlate: Window 'Content Browser' being destroyed
+[2024.02.07-23.32.10:583][742]LogSlate: Window 'Content Browser' being destroyed
+[2024.02.07-23.32.19:579][769]LogViewport: Scene viewport resized to 1454x902, mode Windowed.
+[2024.02.07-23.32.20:669][891]LogEditorViewport: Clicking Background
+[2024.02.07-23.32.22:364][ 93]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.07-23.32.22:388][ 93]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI_Planning/Level/Tester" FILE="D:/AI Planning New/AIPlanning/Content/AI_Planning/Level/Tester.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.07-23.32.22:395][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.02.07-23.32.22:399][ 93]LogSavePackage: Moving output files for package: /Game/AI_Planning/Level/Tester
+[2024.02.07-23.32.22:399][ 93]LogSavePackage: Moving 'D:/AI Planning New/AIPlanning/Saved/Tester30817F6040007546B15B32969B6B1204.tmp' to 'D:/AI Planning New/AIPlanning/Content/AI_Planning/Level/Tester.umap'
+[2024.02.07-23.32.22:405][ 93]LogFileHelpers: Saving map 'Tester' took 0.018
+[2024.02.07-23.32.22:415][ 93]LogFileHelpers: InternalPromptForCheckoutAndSave took 50 ms (total: 3.65 sec)
+[2024.02.07-23.32.22:418][ 93]AssetCheck: New page: Asset Save: Tester
+[2024.02.07-23.32.22:418][ 93]LogContentValidation: Display: Validating /Script/Engine.World /Game/AI_Planning/Level/Tester.Tester
+[2024.02.07-23.32.28:770][269]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.07-23.32.28:802][269]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI_Planning/Level/Tester" FILE="D:/AI Planning New/AIPlanning/Content/AI_Planning/Level/Tester.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.07-23.32.28:808][269]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2024.02.07-23.32.28:811][269]LogSavePackage: Moving output files for package: /Game/AI_Planning/Level/Tester
+[2024.02.07-23.32.28:812][269]LogSavePackage: Moving 'D:/AI Planning New/AIPlanning/Saved/Tester75EF7EB64ED823EC334BA9AAB451259A.tmp' to 'D:/AI Planning New/AIPlanning/Content/AI_Planning/Level/Tester.umap'
+[2024.02.07-23.32.28:817][269]LogFileHelpers: Saving map 'Tester' took 0.016
+[2024.02.07-23.32.28:822][269]LogFileHelpers: InternalPromptForCheckoutAndSave took 51 ms (total: 3.70 sec)
+[2024.02.07-23.32.28:825][269]AssetCheck: New page: Asset Save: Tester
+[2024.02.07-23.32.28:825][269]LogContentValidation: Display: Validating /Script/Engine.World /Game/AI_Planning/Level/Tester.Tester
+[2024.02.07-23.32.29:091][298]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.07-23.32.29:113][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI_Planning/Level/Tester" FILE="D:/AI Planning New/AIPlanning/Content/AI_Planning/Level/Tester.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.07-23.32.29:119][298]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2024.02.07-23.32.29:122][298]LogSavePackage: Moving output files for package: /Game/AI_Planning/Level/Tester
+[2024.02.07-23.32.29:123][298]LogSavePackage: Moving 'D:/AI Planning New/AIPlanning/Saved/Tester5244D36E48583C843B819A805AD03E9D.tmp' to 'D:/AI Planning New/AIPlanning/Content/AI_Planning/Level/Tester.umap'
+[2024.02.07-23.32.29:129][298]LogFileHelpers: Saving map 'Tester' took 0.016
+[2024.02.07-23.32.29:134][298]LogFileHelpers: InternalPromptForCheckoutAndSave took 43 ms (total: 3.75 sec)
+[2024.02.07-23.32.29:137][298]AssetCheck: New page: Asset Save: Tester
+[2024.02.07-23.32.29:137][298]LogContentValidation: Display: Validating /Script/Engine.World /Game/AI_Planning/Level/Tester.Tester
+[2024.02.07-23.32.29:251][312]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.07-23.32.29:276][312]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI_Planning/Level/Tester" FILE="D:/AI Planning New/AIPlanning/Content/AI_Planning/Level/Tester.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.07-23.32.29:282][312]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2024.02.07-23.32.29:285][312]LogSavePackage: Moving output files for package: /Game/AI_Planning/Level/Tester
+[2024.02.07-23.32.29:286][312]LogSavePackage: Moving 'D:/AI Planning New/AIPlanning/Saved/Tester775EAB224F304A41C4ACC895C7502DC5.tmp' to 'D:/AI Planning New/AIPlanning/Content/AI_Planning/Level/Tester.umap'
+[2024.02.07-23.32.29:292][312]LogFileHelpers: Saving map 'Tester' took 0.016
+[2024.02.07-23.32.29:296][312]LogFileHelpers: InternalPromptForCheckoutAndSave took 44 ms (total: 3.79 sec)
+[2024.02.07-23.32.29:299][312]AssetCheck: New page: Asset Save: Tester
+[2024.02.07-23.32.29:299][312]LogContentValidation: Display: Validating /Script/Engine.World /Game/AI_Planning/Level/Tester.Tester
