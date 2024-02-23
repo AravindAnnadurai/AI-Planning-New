@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/C2396934/Source/AI-Planning-New/AIPlanning/Content/AI_Planning/Enemy/Tasks/BTTask_MoveToTower.uasset",
+				"C:/Users/C2396934/Source/AI-Planning-New/AIPlanning/Content/AI_Planning/Castle/BP_Castle.uasset",
+				"C:/Users/C2396934/Source/AI-Planning-New/AIPlanning/Content/AI_Planning/Level/Tester.umap",
+				"C:/Users/C2396934/Source/AI-Planning-New/AIPlanning/Content/AI_Planning/Enemy/BTTask_MoveToCastle.uasset",
+				"C:/Users/C2396934/Source/AI-Planning-New/AIPlanning/Content/AI_Planning/Enemy/BT_EnemyAI.uasset",
+				"C:/Users/C2396934/Source/AI-Planning-New/AIPlanning/Content/AI_Planning/Enemy/Tasks/BTTask_MoveToCastle.uasset",
 				"D:/AI Planning New/AIPlanning/Content/StarterContent/Materials/M_AssetPlatform.uasset",
 				"D:/AI Planning New/AIPlanning/Content/AI_Planning/Level/Tester.umap",
 				"D:/AI Planning New/AIPlanning/Content/ThirdPerson/Maps/ThirdPersonMap_BuiltData.uasset",
