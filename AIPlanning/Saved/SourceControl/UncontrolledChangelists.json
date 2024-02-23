@@ -7,7 +7,18 @@
 			"files": [
 				"D:/AI Planning New/AIPlanning/Content/StarterContent/Materials/M_AssetPlatform.uasset",
 				"D:/AI Planning New/AIPlanning/Content/AI_Planning/Level/Tester.umap",
-				"D:/AI Planning New/AIPlanning/Content/ThirdPerson/Maps/ThirdPersonMap_BuiltData.uasset"
+				"D:/AI Planning New/AIPlanning/Content/ThirdPerson/Maps/ThirdPersonMap_BuiltData.uasset",
+				"D:/AI Planning New/AIPlanning/Content/AI_Planning/Tower/BP_Tower.uasset",
+				"D:/AI Planning New/AIPlanning/Content/AI_Planning/Enemy/BP_EnemySpawner.uasset",
+				"D:/AI Planning New/AIPlanning/Content/AI_Planning/Enemy/BP_Enemy.uasset",
+				"D:/AI Planning New/AIPlanning/Content/AI_Planning/Enemy/BT_EnemyAI.uasset",
+				"D:/AI Planning New/AIPlanning/Content/AI_Planning/Enemy/BB_EnemyAI.uasset",
+				"D:/AI Planning New/AIPlanning/Content/AI_Planning/Tower/BP_Tower_AIC.uasset",
+				"D:/AI Planning New/AIPlanning/Content/AI_Planning/Tower/BP_Bullet.uasset",
+				"D:/AI Planning New/AIPlanning/Content/AI_Planning/Enemy/BP_Enemy_AIC.uasset",
+				"D:/AI Planning New/AIPlanning/Content/AI_Planning/Enemy/Tasks/BTTask_MoveToTower.uasset",
+				"D:/AI Planning New/AIPlanning/Content/AI_Planning/Tower/BB_Tower.uasset",
+				"D:/AI Planning New/AIPlanning/Content/AI_Planning/Tower/BT_Tower.uasset"
 			]
 		}
 	]
